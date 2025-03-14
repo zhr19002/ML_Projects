@@ -1,5 +1,5 @@
-This repository serves as a template for the following:
-- **ML workflows**
-- **ML pipelines**
-- **Traditional statistical time series analysis**
-- **Deep learning time series analysis**
+This repository includes templates for the following:
+- **ML EDA template**
+- **ML pipelines template**
+- **Statistical time series analysis**
+- **DL time series analysis**
