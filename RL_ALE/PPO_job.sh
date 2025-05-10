@@ -2,7 +2,7 @@
 #SBATCH -J PPO_job
 #SBATCH -N 1
 #SBATCH -n 8
-#SBATCH --mem=64G
+#SBATCH --mem=128G
 #SBATCH -t 12:00:00
 #SBATCH -p general-gpu
 #SBATCH --gres=gpu:1
