@@ -13,7 +13,7 @@ This study explores various approaches for forecasting **wave height over the ne
 - **Experiment 1**: Direct prediction of wave height over the next 12 hours
 - **Experiment 2**: Rolling forecast with hourly updates across the 12-hour horizon
 - **Experiment 3**: Explore different historical input window lengths on model performance
-- **Experiment 4**: Explore impact of wind forecast uncertainty on model performance
+- **Experiment 4**: Explore the impact of wind forecast uncertainty on model performance
 
 ### Further Model Optimization
 - **Hyperparameter Tuning**
