@@ -4,7 +4,7 @@ The ensemble ML framework integrates multiple attention-based LSTM models:
 
 - **Base Model 1**: A general wave height regressor based on an LSTM network with multi-head attention.
 
-- **Base Model 2**: A big wave-focused regressor using wave-weighted training and the same LSTM-attention architecture.
+- **Base Model 2**: A big-wave-focused regressor using wave-weighted training and the same LSTM-attention architecture.
 
 - **Base Model 3**: A classifier estimating the probability of big wave occurrences, also built on an LSTM with multi-head attention.
 
