@@ -1,0 +1,14 @@
+Perfect-future:
+Start time: 2026-01-27 23:24:24.579411
+End time: 2026-01-27 23:33:09.973153
+Duration (seconds): 525.39
+
+Noise-augmented:
+Start time: 2026-01-27 23:27:48.521113
+End time: 2026-01-28 03:20:40.394618
+Duration (seconds): 13971.87
+
+Probabilistic:
+Start time: 2026-01-27 23:36:28.612952
+End time: 2026-01-28 04:10:59.269946
+Duration (seconds): 16470.66
