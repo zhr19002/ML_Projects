@@ -11,5 +11,5 @@
 
 source /home/zhr19002/anaconda3/etc/profile.d/conda.sh
 conda activate tf-gpu
-cd /home/zhr19002/ML_projects/DL_LSTM/
+cd /home/zhr19002/ML_Projects/DL_LSTM/
 srun python hp_tuning_reg0.py
