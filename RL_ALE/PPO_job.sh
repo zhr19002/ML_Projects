@@ -11,5 +11,5 @@
 
 source /home/zhr19002/anaconda3/etc/profile.d/conda.sh
 conda activate torch-sb3
-cd /home/zhr19002/ML_projects/RL_ALE/
+cd /home/zhr19002/ML_Projects/RL_ALE/
 srun python PPO_train.py
