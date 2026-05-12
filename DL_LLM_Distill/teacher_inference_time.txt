@@ -1,0 +1,44 @@
+context = 24
+Start time: 2026-05-11 18:08:13.878883
+End time: 2026-05-11 18:12:30.575894
+Duration (seconds): 256.70
+
+context = 48
+Start time: 2026-05-11 18:12:30.646039
+End time: 2026-05-11 18:16:46.705690
+Duration (seconds): 256.06
+
+context = 72
+Start time: 2026-05-11 18:16:46.706366
+End time: 2026-05-11 18:21:04.429149
+Duration (seconds): 257.72
+
+context = 96
+Start time: 2026-05-11 18:21:04.386662
+End time: 2026-05-11 18:25:19.981864
+Duration (seconds): 255.60
+
+context = 120
+Start time: 2026-05-11 18:25:20.019602
+End time: 2026-05-11 18:30:02.031581
+Duration (seconds): 282.01
+
+context = 256
+Start time: 2026-05-11 18:30:01.990997
+End time: 2026-05-11 18:35:16.616785
+Duration (seconds): 314.63
+
+context = 512
+Start time: 2026-05-11 18:35:16.635154
+End time: 2026-05-11 18:42:04.613876
+Duration (seconds): 407.98
+
+context = 1024
+Start time: 2026-05-11 18:42:04.618136
+End time: 2026-05-11 18:50:58.730414
+Duration (seconds): 534.11
+
+context = 2048
+Start time: 2026-05-11 18:50:57.707586
+End time: 2026-05-11 19:05:30.041822
+Duration (seconds): 872.33
