@@ -187,7 +187,7 @@ def student_module(data_cfg: DataConfig, model_cfg: ModelConfig, train_cfg: Trai
                     'model_state_dict': student.state_dict(),
                     'optimizer_state_dict': optimizer_student.state_dict(),
                     'val_loss': val_loss
-                }, 'best_student.pt')
+                }, 'best_student_p50.pt')
             else:
                 counter += 1
                 if counter >= patience:
