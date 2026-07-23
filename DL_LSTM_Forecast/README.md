@@ -1,7 +1,7 @@
 ## Experiment Design
 This study explores various approaches for **wave height forecasting over the next 12 hours**, considering different input configurations and forecasting strategies.
 
-### Input Configurations
+### Input configurations
 - **Baseline**: Previous hour's wave height as a persistent estimate for all future hours
 - **Case 1**: Past n-hour wind observations
 - **Case 2**: Past n-hour wave heights
@@ -15,6 +15,6 @@ This study explores various approaches for **wave height forecasting over the ne
 - **Experiment 3**: Explore different data input window lengths on model performance
 - **Experiment 4**: Explore impact of wind forecast uncertainty on model performance
 
-### Further Model Optimization
-- **Hyperparameter Tuning**
+### Further model optimization
+- **Hyperparameter tuning**
 - **Bidirectional LSTM**: Incorporates both past and future temporal dependencies to improve wave height forecast accuracy
